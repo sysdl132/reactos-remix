@@ -1,4 +1,4 @@
-# **Stable - 0.4.14** 
+# **Stable version - 0.4.14** 
 <p align=center>
   <a href="https://reactos.org/">
     <img alt="ReactOS" src="https://reactos.org/wiki/images/0/02/ReactOS_logo.png">
