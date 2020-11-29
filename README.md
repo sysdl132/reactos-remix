@@ -1,4 +1,5 @@
 # **Stable version - 0.4.14** 
+[![Build Status](https://travis-ci.com/sysdl132/reactos-remix.svg?branch=releases%2F0.4.14)](https://travis-ci.com/sysdl132/reactos-remix)
 <p align=center>
   <a href="https://reactos.org/">
     <img alt="ReactOS" src="https://reactos.org/wiki/images/0/02/ReactOS_logo.png">
